@@ -36,7 +36,7 @@ class AlienInvasion:
             pygame.display.flip()
             self.clock.tick(60)
 
-            if __name__ == '__main__':
-                #make a game instance, and run the game.
-                ai = AlienInvasion()
-                ai.run_game()
+if __name__ == '__main__':
+    #make a game instance, and run the game.
+    ai = AlienInvasion()
+    ai.run_game()
