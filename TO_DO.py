@@ -1,1 +1,1 @@
-#I have to 'add the ship image' next pg.233 of kindle
+#I have to 'Refactoring" The _check_...' next pg.236 of kindle
