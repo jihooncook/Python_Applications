@@ -1,1 +1,0 @@
-#I have to 'Refactoring" The _check_...' next pg.236 of kindle
