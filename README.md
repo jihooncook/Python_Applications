@@ -1,4 +1,5 @@
 # LearnPython
 This is a learning space where I will learn Python and get familiar with the GitHub System.
 
-Most of the learning resources is used from the book -> Eric Matthes. Python Crash Course, 3rd Edition and Grokking algorithms 
+Learning resources used -> Eric Matthes. Python Crash Course, 3rd Edition 
+Aditya Y. Bhargava. Grokking Algorithms An illustrated guide for programmers and other curious people
