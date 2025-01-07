@@ -1,3 +1,13 @@
-Alien Invasion game/__pycache__/settings.cpython-312.pyc
-Alien Invasion game/__pycache__/ship.cpython-312.pyc
-Alien Invasion game/__pycache__/ship.cpython-312.pyc
+# Ignore compiled Python bytecode files
+*.pyc
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore environment-specific settings
+.env
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.sublime-*
