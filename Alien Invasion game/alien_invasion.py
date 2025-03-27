@@ -76,6 +76,7 @@ class AlienInvasion:
             self.settings.initialize_dynamic_settings()
 
             # Reset the game statistics.
+            self.stats.reset_stats()
             self.game_active = True
 
             # Get rid of any remaining bullets and aliens.
